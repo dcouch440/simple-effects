@@ -1,0 +1,16 @@
+.walrus-container {
+  display: none;
+}
+.hide {
+  display: none;
+}
+.show {
+  display: initial;
+}
+p {
+  cursor: pointer;
+  color: #0088cc;
+}
+p:hover {
+  text-decoration: underline;
+}
